@@ -2,12 +2,16 @@ body{
   margin: 0;
   font-family: 'Merriweather', serif;
 }
+.Details{
+  position: relative;
+  bottom: 50px;
+}
 h1{
   font-size: 4em;
   margin-top: 0;
   font-family: 'Sacramento', cursive;
 position: relative;
-top: 30px;
+top: 5px;
 
 }
 
